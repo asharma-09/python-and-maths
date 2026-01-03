@@ -1,3 +1,8 @@
+import os
+
+#clear the console
+os.system('cls' if os.name == 'nt' else 'clear')
+
 # User input
 num = int(input("Enter a number: "))
 
