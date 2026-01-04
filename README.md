@@ -8,4 +8,5 @@ The projects start from basic mathematical programs and gradually move towards m
 
 ## Below is a quick list of programs
 - Number table generator (numtable.py)
-- Fibonacci series generator (sewries-generator.py)
+- Fibonacci series generator (series-generator.py)
+- Find largest number (findlargestnum.py)
